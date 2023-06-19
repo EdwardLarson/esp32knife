@@ -5,7 +5,7 @@ import base64
 import binascii
 import argparse
 import json
-from hexdump import hexdump
+# from hexdump import hexdump
 from esp32nvs import *
 
 

@@ -4,7 +4,7 @@ import struct
 import base64
 import binascii
 import shutil
-from hexdump import hexdump
+# from hexdump import hexdump
 from collections import OrderedDict
 
 nvs_types =  {
